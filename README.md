@@ -1,2 +1,4 @@
-# Octavo-repReadme
-Este es mi octavo repositorio.
+Este es mi octavo repositorio en github, trabajado desde mi computadora personal.
+
+
+
